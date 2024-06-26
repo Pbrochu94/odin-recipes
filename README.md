@@ -1,1 +1,1 @@
-# odin-recipes
+This exercise it to test my capacity to create repository and test my basic HTML knowledge
